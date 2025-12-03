@@ -12,7 +12,7 @@ The build script uses `mvn package` to produce a demo.war file and then bundles 
 
 ## What happened:
 
-* mvn package was ran and the `target/demo.war` was moved into `pkg/demo.war`
+* mvn package was ran and the `target/demo.war` was moved into `pkg/demo.war` for further usage
 * a docker image was built which copied the `pkg/demo.war` to `/usr/local/tomcat/webapps/demo.war`. Check out the [Dockerfile](Dockerfile) for details.
 
 Here's an example of some things to check after running the build script:
