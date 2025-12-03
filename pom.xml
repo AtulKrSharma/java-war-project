@@ -11,14 +11,14 @@
   <!-- DISTRIBUTION MANAGEMENT FOR NEXUS DEPLOY -->
   <distributionManagement>
     <repository>
-      <id>nexus-releases</id>
-      <name>Nexus Releases</name>
-      <url>http://54.204.225.45:8081/repository/maven-releases/</url>
+      <id>Atul-releases</id>
+      <name>Atul Releases</name>
+      <url>http://54.204.225.45:8081/repository/Atul-Mvn-Release/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <name>Nexus Snapshots</name>
-      <url>http://54.204.225.45:8081/repository/maven-snapshots/</url>
+      <id>Atul-snapshots</id>
+      <name>Atul Snapshots</name>
+      <url>http://54.204.225.45:8081/repository/Atul-Mvn-Snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
