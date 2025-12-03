@@ -1,4 +1,4 @@
-# Demo Java Web App
+# Demo Java Web App:
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
@@ -10,7 +10,7 @@ The build script uses `mvn package` to produce a demo.war file and then bundles 
 
     bin/builds
 
-## What happened
+## What happened:
 
 * mvn package was ran and the `target/demo.war` was moved into `pkg/demo.war`
 * a docker image was built which copied the `pkg/demo.war` to `/usr/local/tomcat/webapps/demo.war`. Check out the [Dockerfile](Dockerfile) for details.
