@@ -1,2 +1,3 @@
 #This is my text file to trigger the ci/cd ;D
 # don't worry be happy .lol
+# updated nexus repo url
