@@ -28,7 +28,7 @@
 
     <p>
         This page was processed on the server at:
-        <span class="time-display">${currentTime}</span>
+        <span class="time-display"><%= new java.util.Date() %></span>
     </p>
 
     <p>
