@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Dynamic Welcome Page by ATUL Sharma</title>
+    <title>Dynamic Welcome Page by Atul Kumar Sharma</title>
     <style>
         body { font-family: Tahoma, sans-serif; margin: 40px; background-color: #f4f4f4; }
         h2 { color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
