@@ -2,4 +2,4 @@
 # don't worry be happy .lol
 # updated nexus repo urls
 # automated ci cd
-#best
+# so now docker is in the game too !! dock dock :D
