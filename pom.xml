@@ -5,8 +5,8 @@
   <artifactId>demo</artifactId>
   <packaging>war</packaging>
   <version>2.1</version>
-  <name>Atul Web Archive App</name>
-  <url>https://github.com/tongueroo/demo-java</url>
+  <name>Atul WAR App</name>
+  <url>https://github.com/atulkmar/demo-java</url>
 
   <!-- DISTRIBUTION MANAGEMENT FOR NEXUS DEPLOY -->
   <distributionManagement>
