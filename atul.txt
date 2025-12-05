@@ -6,3 +6,4 @@
 # removed the wrong plugin of sonar
 # added QG at SC
 # config done
+# nexus configure too.
