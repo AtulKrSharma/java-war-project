@@ -4,7 +4,7 @@
   <groupId>com.domain</groupId>
   <artifactId>demo</artifactId>
   <packaging>war</packaging>
-  <version>2.9</version>
+  <version>2.9.1</version>
   <name>Atul WAR App</name>
   <url>https://github.com/atulkmr/demo-java</url>
 
