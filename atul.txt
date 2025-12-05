@@ -3,4 +3,4 @@
 # updated nexus repo urls
 # automated ci cd
 # so now docker is in the game too !! dock dock :D
-# final testing
+# removed the wrong plugin of sonar
