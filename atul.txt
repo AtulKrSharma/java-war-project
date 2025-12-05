@@ -5,3 +5,4 @@
 # so now docker is in the game too !! dock dock :D
 # removed the wrong plugin of sonar
 # added QG at SC
+# config done
