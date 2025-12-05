@@ -18,7 +18,7 @@
 </head>
 <body>
 
-    <h3>Hello World: Dynamic Welcome Page by Atul Kumar Sharma</h3>
+    <h3>Hello World: Dynamic Welcome Page by Atul KR Sharma</h3>
 
     <%-- 1. Scriptlet: Get the current date object and store it in the request scope --%>
     <%
