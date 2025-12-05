@@ -13,12 +13,12 @@
     <repository>
       <id>Atul-releases</id>
       <name>Atul Releases</name>
-      <url>http://54.204.225.45:8081/repository/Atul-Mvn-Release/</url>
+      <url>http://54.204.225.45:8081/repository/docker-nexus-release/</url>
     </repository>
     <snapshotRepository>
       <id>Atul-snapshots</id>
       <name>Atul Snapshots</name>
-      <url>http://54.204.225.45:8081/repository/Atul-Mvn-Snapshot/</url>
+      <url>http://54.204.225.45:8081/repository/docker-nexus-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
