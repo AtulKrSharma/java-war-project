@@ -2,7 +2,7 @@
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
-Simple Java project demos how to build a war file to be deployed on a Tomcat server/s.
+Simple Java project demos how to build a war file to be deployed on a Tomcat server/s
 
 ## Build
 
