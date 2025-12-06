@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Dynamic Welcome Page by Atul XKX Sharma</title>
+    <title>Dynamic Welcome Page by Atul Final Sharma</title>
     <style>
         body { font-family: Tahoma, sans-serif; margin: 40px; background-color: #f4f4f4; }
         h2 { color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
@@ -18,7 +18,7 @@
 </head>
 <body>
 
-    <h3>Hello World: Dynamic Welcome Page by Atul KR Sharma</h3>
+    <h3>Hello World: Dynamic Welcome Page by Atul Final Sharma</h3>
 
     <%-- 1. Scriptlet: Get the current date object and store it in the request scope --%>
     <%
